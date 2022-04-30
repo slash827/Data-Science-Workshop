@@ -1,1 +1,1 @@
-# DataScienceWorkshop
+# Data Science Workshop
