@@ -2,16 +2,6 @@
 
 A machine learning project that predicts asteroid diameters using orbital and physical characteristics data from NASA's Jet Propulsion Laboratory.
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Dataset](#dataset)
-- [Results](#results)
-- [Technical Implementation](#technical-implementation)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🚀 About
 
 This project develops predictive models to estimate asteroid diameters based on various astronomical features such as orbital parameters, magnitude measurements, and physical properties. The dataset contains information about asteroids including their orbital velocities, eccentricity, albedo, and other characteristics that can be used to predict their size.
@@ -105,16 +95,6 @@ jupyter
 - [ ] **Integration of additional astronomical data sources**
 - [ ] **Real-time prediction API** development
 - [ ] **Deep learning approaches** exploration
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
