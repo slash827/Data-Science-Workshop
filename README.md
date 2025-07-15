@@ -1,6 +1,8 @@
 # Asteroid Diameter Prediction 🌌
+**Authors**: Gilad Battat, Emanuel Shakrov, Sariel Tutay
 
 A machine learning project that predicts asteroid diameters using orbital and physical characteristics data from NASA's Jet Propulsion Laboratory.
+This project was part of an Academic workshop in Data Science at Bar Ilan University.
 
 ## 🚀 About
 
